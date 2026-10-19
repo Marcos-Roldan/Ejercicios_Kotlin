@@ -1,5 +1,3 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
 
     val ej1 = Ejercicio_1()
@@ -31,7 +29,58 @@ fun main() {
 
     val ej10 = Ejercicio_10()
     ej10.ejecutar()
-    
+
     val ej11 = Ejercicio_11()
     ej11.ejecutar()
+
+    val ej12 = Ejercicio_12()
+    ej12.ejecutar()
+
+    val ej13 = Ejercicio_13()
+    ej13.ejecutar()
+
+    val ej14 = Ejercicio_14()
+    ej14.ejecutar()
+
+    val ej15 = Ejercicio_15()
+    ej15.ejecutar()
+
+    val ej16 = Ejercicio_16()
+    ej16.ejecutar()
+
+    val ej17 = Ejercicio_17()
+    ej17.ejecutar()
+
+    val ej18 = Ejercicio_18()
+    ej18.ejecutar()
+
+    val ej19 = Ejercicio_19()
+    ej19.ejecutar()
+
+    val ej20 = Ejercicio_20()
+    ej20.ejecutar()
+
+    val ej21 = Ejercicio_21()
+    ej21.ejecutar()
+
+    val ej22 = Ejercicio_22()
+    ej22.ejecutar()
+
+    val ej23 = Ejercicio_23()
+    ej23.ejecutar()
+
+    val ej24 = Ejercicio_24()
+    ej24.ejecutar()
+
+    val ej25 = Ejercicio_25()
+    ej25.ejecutar()
+
+    val ej26 = Ejercicio_26()
+    ej26.ejecutar()
+
+    val ej27 = Ejercicio_27()
+    ej27.ejecutar()
+
+    val ej28 = Ejercicio_28()
+    ej28.ejecutar()
 }
